@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @98Vedant 
-- 👀 I’m interested in Competitive programming, data science and DevOps
+- 👀 I’m interested in Generative AI, Competitive programming, and DevOps
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps related projects
+- 💞️ I’m looking to collaborate on Generative AI related projects
 - 📫 connect with me via linkedIn: https://www.linkedin.com/in/vedant-acharya-003053218/
 
 <!---
